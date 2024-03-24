@@ -1,4 +1,4 @@
-# learn-next13.js
+# Brainwave
 
 <b>coded by [Abdelrahman Atef](https://linklaunchy.vercel.app/boody_04)</b>
 
